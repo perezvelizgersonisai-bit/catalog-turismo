@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "Lago de Coatepeque",
+        "department": "Santa Ana",
+        "category": "Naturaleza y Lagos",
+        "price": "Gratis (acceso público) / Paseos en lancha desde $5.00",
+        "description": "Un hermoso lago de origen volcánico ubicado a 18 km al sur de la ciudad de Santa Ana. Cuenta con una isla y es ideal para practicar kayak, natación, y navegación en lancha. En ciertas épocas del año, sus aguas cambian a un espectacular color azul turquesa.",
+        "image_url": "https://images.unsplash.com/photo-1590001155093-a3c66ab0c3ff?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 2,
+        "title": "Volcán de Santa Ana (Ilamatepec)",
+        "department": "Santa Ana",
+        "category": "Aventura y Senderismo",
+        "price": "$1.50 (nacionales) / $3.00 (extranjeros) + Guía local ($3.00)",
+        "description": "Es el volcán más alto y voluminoso de El Salvador, con 2,381 metros sobre el nivel del mar. La caminata hacia la cima ofrece vistas espectaculares del Lago de Coatepeque y, al llegar al cráter, se puede contemplar una impresionante laguna de agua sulfurosa de color verde esmeralda.",
+        "image_url": "https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Playa El Tunco",
+        "department": "La Libertad",
+        "category": "Playa y Surf",
+        "price": "Acceso libre (Consumo en locales varía)",
+        "description": "Una de las playas más famosas de El Salvador, conocida mundialmente por sus olas perfectas para la práctica del surf. Su nombre proviene de una formación rocosa icónica en el mar que se asemeja a un cerdo ('tunco' en salvadoreño). Cuenta con un gran ambiente nocturno, hoteles y restaurantes frente al mar.",
+        "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Parque Nacional El Boquerón",
+        "department": "San Salvador",
+        "category": "Naturaleza y Parques",
+        "price": "$2.00 (nacionales) / $3.00 (extranjeros)",
+        "description": "Ubicado en el cráter del Volcán de San Salvador a 1,893 metros sobre el nivel del mar. Cuenta con senderos reforestados con bellas flores y pinos, miradores desde donde se puede ver el fondo del gran cráter (de 1.5 km de diámetro y 558 metros de profundidad) y disfrutar de un clima fresco de montaña.",
+        "image_url": "https://images.unsplash.com/photo-1447752875215-b2761acb3c5d?auto=format&fit=crop&w=800&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Joya de Cerén",
+        "department": "La Libertad",
+        "category": "Arqueología y Cultura",
+        "price": "$1.00 (nacionales) / $3.00 (extranjeros)",
+        "description": "Conocido como la 'Pompeya de América' y declarado Patrimonio de la Humanidad por la UNESCO. Es un sitio arqueológico precolombino único que muestra la vida cotidiana de una aldea agrícola maya que fue sepultada por la ceniza de la erupción del volcán Loma Caldera alrededor del año 600 d.C.",
+        "image_url": "https://images.unsplash.com/photo-1568402102990-bc541580b59f?auto=format&fit=crop&w=800&q=80"
+    }
+]
