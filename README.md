@@ -112,10 +112,10 @@ routes/
 
 ## 📸 Capturas de pantalla
 
-![Catálogo de destinos](screenshots/catalogo.png)
-![Detalle del destino](screenshots/detalle.png)
-![Validación del formulario](screenshots/formulario-error.png)
-![Confirmación de envío](screenshots/exito.png)
+![Catálogo de destinos](resources/screenshots/catalogo.png)
+![Detalle del destino](resources/screenshots/detalle.png)
+![Validación del formulario](resources/screenshots/formulario-error.png)
+![Confirmación de envío](resources/screenshots/exito.png)
 ## 👤 Autor
 
 Proyecto desarrollado como parte del programa **KODIGO — Desarrollo Web con Laravel y Arquitectura MVC**.
